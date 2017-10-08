@@ -12,14 +12,14 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Servlet implementation class memReg
  */
-@WebServlet("/memReg")
-public class memReg extends HttpServlet {
+@WebServlet("/MemReg")
+public class MemReg extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
     /**
      * @see HttpServlet#HttpServlet()
      */
-    public memReg() {
+    public MemReg() {
         super();
         // TODO Auto-generated constructor stub
     }
